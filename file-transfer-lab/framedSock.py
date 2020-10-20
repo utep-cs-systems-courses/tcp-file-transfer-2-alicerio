@@ -1,3 +1,7 @@
+# Alan Licerio
+# File Transfer
+# 10-18-20
+
 import re
 
 def framedSend(sock, filename, payload, debug=0):

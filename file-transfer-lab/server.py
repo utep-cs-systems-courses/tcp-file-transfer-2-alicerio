@@ -1,7 +1,11 @@
 #! /usr/bin/env python3
+
+# Alan Licerio
+# File Transfer
+# 10-18-20
 import os, socket, sys
 
-#sys.path.append("../lib") # for params
+#sys.path.append("../lib")
 from lib import params
 from framedSock import framedReceive
 
